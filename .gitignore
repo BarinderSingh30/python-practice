@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+← NEVER commit passwords or API keys
+.venv/
+.DS_Store
+Mac system file
+*.log
